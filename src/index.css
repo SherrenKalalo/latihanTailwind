@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.test{
+    display: none;
+    transform: translateX(-30%);
+}
